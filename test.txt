@@ -1,3 +1,5 @@
 Arvid's toevoeging
 
-Deze wijzigingen zijn gemaakt vanuit de branch 'arvid'
+Deze wijzigingen zijn gemaakt vanuit de branch 'arvid'.
+
+Voorlopig blijf ik even doorgaan met wijzigingen doorvoeren.
