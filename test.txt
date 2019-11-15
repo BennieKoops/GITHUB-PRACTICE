@@ -1,3 +1,7 @@
 Arvid's toevoeging
 
+<<<<<<< HEAD
 adding names: Bennie, Edwin and  Arvid
+=======
+Edwin's couplet
+>>>>>>> ac825fb190d07249149de529c1279d8879333159
